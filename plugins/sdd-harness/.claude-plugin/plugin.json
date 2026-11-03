@@ -1,0 +1,9 @@
+{
+  "name": "sdd-harness",
+  "version": "0.1.0",
+  "description": "라운드 단위 개발 진행 방식: round-start · round-plan · round-build · round-close 스킬, verifier · cleaner 에이전트, 세션 시작 시 현재 라운드 알림",
+  "author": {
+    "name": "khk17"
+  },
+  "keywords": ["sdd", "spec", "round", "workflow"]
+}

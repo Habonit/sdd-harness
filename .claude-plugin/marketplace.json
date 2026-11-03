@@ -1,0 +1,14 @@
+{
+  "name": "sdd-harness-marketplace",
+  "description": "라운드 단위 스펙 주도 개발(SDD) 하네스를 담은 로컬 마켓플레이스",
+  "owner": {
+    "name": "khk17"
+  },
+  "plugins": [
+    {
+      "name": "sdd-harness",
+      "source": "./plugins/sdd-harness",
+      "description": "spec → plan → build → close 라운드 진행 스킬, verifier · cleaner 에이전트, 현재 라운드 알림 Hook"
+    }
+  ]
+}
